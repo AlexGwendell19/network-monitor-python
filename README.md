@@ -81,7 +81,7 @@ Each host runs in a `daemon` thread that pings, logs, prints, and checks alert c
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/rodrigo-guerra/network-monitor-python.git
+git clone https://github.com/AlexGwendell19/network-monitor-python.git
 cd network-monitor-python
 ```
 
