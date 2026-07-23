@@ -32,7 +32,7 @@
 
 ## 📌 Overview
 
-This tool monitors the availability and response time of a configurable list of network hosts. It was built to complement a [multi-service enterprise branch network](https://github.com/rodrigo-guerra/enterprise-network-lab) deployed on Cisco hardware, but works for any IP/hostname you want to track.
+This tool monitors the availability and response time of a configurable list of network hosts. It was built to complement a [multi-service enterprise branch network](https://github.com/AlexGwendell19/enterprise-network-packet-tracer.git) deployed on Cisco hardware, but works for any IP/hostname you want to track.
 
 Every host runs in its own thread, so all pings happen in parallel — no waiting for slow hosts to time out before checking the next one.
 
@@ -81,7 +81,7 @@ Each host runs in a `daemon` thread that pings, logs, prints, and checks alert c
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/rodrigo-guerra/network-monitor-python.git
+git clone https://github.com/AlexGwendell19/network-monitor-python.git
 cd network-monitor-python
 ```
 
@@ -232,8 +232,7 @@ network-monitor-python/
 
 **Rodrigo Alexis Guerra Wendell**
 
-[![GitHub](https://img.shields.io/badge/GitHub-rodrigo--guerra-181717?style=flat-square&logo=github)](https://github.com/rodrigo-guerra)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/rodrigo-guerra)
+[![GitHub](https://img.shields.io/badge/GitHub-rodrigo--guerra-181717?style=flat-square&logo=github)](https://github.com/AlexGwendell19)
 
 ---
 
