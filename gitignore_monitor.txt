@@ -1,0 +1,19 @@
+# Logs generated at runtime — don't commit real network data
+logs/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# If you put credentials in config.py, exclude it and use config.example.py instead
+# config.py
+
+# Virtual environment
+venv/
+.env/
+env/

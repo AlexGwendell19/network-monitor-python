@@ -1,0 +1,10 @@
+# Network Monitor — Dependencies
+# All modules are from Python standard library.
+# No external packages required to run the monitor.
+#
+# Optional: install these only if you want to extend the project
+# with a web dashboard or advanced charts in the future.
+#
+# pandas==2.2.2          # Data analysis from CSV logs
+# matplotlib==3.9.0      # Charts from log data
+# streamlit==1.35.0      # Web dashboard (future improvement)
